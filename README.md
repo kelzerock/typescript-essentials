@@ -1,1 +1,1 @@
-# typescript-essentials
+This repository created during completed [task](https://github.com/rolling-scopes-school/tasks/tree/master/stage2/tasks/TypeScriptEssentials) at RSSchool
